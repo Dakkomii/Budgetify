@@ -48,18 +48,18 @@ LINK TO OUR FIGMA MOCKUP: https://www.figma.com/file/WsJ8sowVenNpUuQe2c2vRN/The-
 **[Add a screenshot of each key page](https://stackoverflow.com/questions/10189356/how-to-add-screenshot-to-readmes-in-github-repository)
 along with a very brief caption:**
 
-Splash Page:  ![Alt text](/leaksp2/src/assets/splashpage.png?raw=true "Splash")
+Splash Page:  ![Alt text](src/assets/splashpage.png?raw=true "Splash")
 
-Wish List: ![Alt text](/leaksp2/src/assets/wishlist.png?raw=true "Wish List")
+Wish List: ![Alt text](src/assets/wishlist.png?raw=true "Wish List")
 
-Purchased List: ![Alt text](/leaksp2/src/assets/purchasedlist.png?raw=true "Purchased List")
+Purchased List: ![Alt text](src/assets/purchasedlist.png?raw=true "Purchased List")
 
-Budgeting: ![Alt text](/leaksp2/src/assets/budgeting.png?raw=true "Budgeting")
+Budgeting: ![Alt text](src/assets/budgeting.png?raw=true "Budgeting")
 
-Upload: ![Alt text](/leaksp2/src/assets/uploadwishlist.png?raw=true "Upload Wish List")
+Upload: ![Alt text](src/assets/uploadwishlist.png?raw=true "Upload Wish List")
 ![Alt text](/leaksp2/src/assets/uploadpurchasedlist.png?raw=true "Upload Purchased List")
 
-Item: ![Alt text](/leaksp2/src/assets/item.png?raw=true "Item")
+Item: ![Alt text](src/assets/item.png?raw=true "Item")
 
 ## External Dependencies
 
